@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  margin: 0px;
+}
+
+img {
+  border: 1px solid black;
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
+}
